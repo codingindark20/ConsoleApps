@@ -1,0 +1,6 @@
+/home/ubuntu/Projects/calculator/calculator/obj/x86/Debug/calculator.csprojAssemblyReference.cache
+/home/ubuntu/Projects/calculator/calculator/obj/x86/Debug/calculator.csproj.CoreCompileInputs.cache
+/home/ubuntu/Projects/calculator/calculator/bin/Debug/calculator.exe
+/home/ubuntu/Projects/calculator/calculator/bin/Debug/calculator.pdb
+/home/ubuntu/Projects/calculator/calculator/obj/x86/Debug/calculator.exe
+/home/ubuntu/Projects/calculator/calculator/obj/x86/Debug/calculator.pdb

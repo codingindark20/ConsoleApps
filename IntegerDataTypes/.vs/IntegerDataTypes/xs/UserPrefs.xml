@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{446A46A9-FE16-45E7-AE6A-EA057330F464}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntegerDataTypes/Program.cs">
+    <Files>
+      <File FileName="IntegerDataTypes/Program.cs" Line="17" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IntegerDataTypes" expanded="True">
+            <Node name="IntegerDataTypes" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IntegerDataTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

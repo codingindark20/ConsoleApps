@@ -1,0 +1,6 @@
+/home/ubuntu/Projects/IntegerDataTypes/IntegerDataTypes/bin/Debug/IntegerDataTypes.exe
+/home/ubuntu/Projects/IntegerDataTypes/IntegerDataTypes/bin/Debug/IntegerDataTypes.pdb
+/home/ubuntu/Projects/IntegerDataTypes/IntegerDataTypes/obj/x86/Debug/IntegerDataTypes.csprojAssemblyReference.cache
+/home/ubuntu/Projects/IntegerDataTypes/IntegerDataTypes/obj/x86/Debug/IntegerDataTypes.csproj.CoreCompileInputs.cache
+/home/ubuntu/Projects/IntegerDataTypes/IntegerDataTypes/obj/x86/Debug/IntegerDataTypes.exe
+/home/ubuntu/Projects/IntegerDataTypes/IntegerDataTypes/obj/x86/Debug/IntegerDataTypes.pdb
