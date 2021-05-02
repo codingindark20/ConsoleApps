@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CE2865B3-0BDF-4FDE-9FBD-B2536A804DAC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trigonometry_Console/Program.cs">
+    <Files>
+      <File FileName="Trigonometry_Console/Program.cs" Line="20" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trigonometry_Console" expanded="True">
+            <Node name="Trigonometry_Console" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Trigonometry__Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

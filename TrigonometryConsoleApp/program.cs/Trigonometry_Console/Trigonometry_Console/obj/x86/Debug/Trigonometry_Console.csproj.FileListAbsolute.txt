@@ -1,0 +1,6 @@
+/home/ubuntu/Desktop/C#_learning/consoleApp/TrigonometryConsoleApp/program.cs/Trigonometry_Console/Trigonometry_Console/bin/Debug/Trigonometry_Console.exe
+/home/ubuntu/Desktop/C#_learning/consoleApp/TrigonometryConsoleApp/program.cs/Trigonometry_Console/Trigonometry_Console/bin/Debug/Trigonometry_Console.pdb
+/home/ubuntu/Desktop/C#_learning/consoleApp/TrigonometryConsoleApp/program.cs/Trigonometry_Console/Trigonometry_Console/obj/x86/Debug/Trigonometry_Console.csprojAssemblyReference.cache
+/home/ubuntu/Desktop/C#_learning/consoleApp/TrigonometryConsoleApp/program.cs/Trigonometry_Console/Trigonometry_Console/obj/x86/Debug/Trigonometry_Console.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/C#_learning/consoleApp/TrigonometryConsoleApp/program.cs/Trigonometry_Console/Trigonometry_Console/obj/x86/Debug/Trigonometry_Console.exe
+/home/ubuntu/Desktop/C#_learning/consoleApp/TrigonometryConsoleApp/program.cs/Trigonometry_Console/Trigonometry_Console/obj/x86/Debug/Trigonometry_Console.pdb
